@@ -1,0 +1,31 @@
+body{
+	background-color:#1c478e;
+	margin:0 0 0 0;
+}
+
+#first h1{
+	text-align:center;
+	padding-top:5px;
+	color:#fff;
+
+}
+
+#container{
+	width:1240px;
+	height:1920px;
+}
+
+#first{
+	height:80px;	
+	background-color:blue;
+}
+
+#second{
+	float:center;
+	background-color:gray;
+}
+
+#second h1{
+	text-align:center;
+	padding-top:5px;
+}
