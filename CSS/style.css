@@ -18,13 +18,15 @@ body{
 #first h1{
 	text-align:center;
 	padding-top:12px;
+	margin:0 0 0 0;
 	color:#fff;
 }
 
 #second{
 	height:50px;
 	background-color:#B41BE9;
-	margin-top:0px;
+	margin:0 0 0 0;
+	border-radius:10px;
 }
 
 #second h1{
@@ -37,7 +39,8 @@ body{
 	float:left;
 	width:1345px;
 	background:#B41BE9;
-	margin-top:10px;
+	margin-top:5px;
+	border-radius:10px;
 }
 
 #topmenu ul{
